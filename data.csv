@@ -1,0 +1,55 @@
+Timestamp,Url,Referrer,Browser
+2017-08-07 08:25:44 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:33:01 UTC,http://foo.com/sports,-,Mozilla Firefox
+2017-08-07 08:22:44 UTC,http://foo.com/news,-,Mozilla Firefox
+2017-08-07 08:27:43 UTC,http://foo.com/news,-,Mozilla Firefox
+2017-08-07 08:10:40 UTC,http://foo.com/news,Google,Mozilla Firefox
+2017-08-07 08:55:46 UTC,http://foo.com/news,Google,Mozilla Firefox
+2017-08-07 08:26:44 UTC,http://foo.com/news,Google,Mozilla Firefox
+2017-08-07 08:05:04 UTC,http://foo.com/news,Google,Mozilla Firefox
+2017-08-07 08:23:33 UTC,http://foo.com/news,Google,Mozilla Firefox
+2017-08-07 08:24:43 UTC,http://foo.com/news,Google,Mozilla Firefox
+2017-08-07 08:25:47 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:48 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:49 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:50 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:51 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:52 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:53 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:54 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:55 UTC,http://foo.com/news,-,Chromium
+2017-08-07 08:25:56 UTC,http://foo.com/news,-,Chromium
+2017-08-07 08:25:57 UTC,http://foo.com/news,-,Chromium
+2017-08-07 08:25:58 UTC,http://foo.com/sports,-,Chromium
+2017-08-07 08:25:59 UTC,http://foo.com/sports,-,Chromium
+2017-08-07 08:25:39 UTC,http://foo.com/sports,-,Chromium
+2017-08-07 08:25:38 UTC,http://foo.com/sports,-,Chromium
+2017-08-07 08:25:37 UTC,http://foo.com/sports,-,Chromium
+2017-08-07 08:25:36 UTC,http://foo.com/sports,-,Chromium
+2017-08-07 08:25:35 UTC,http://foo.com/sports,-,Chromium
+2017-08-07 08:25:34 UTC,http://foo.com/sports,-,Chromium
+2017-08-07 08:25:33 UTC,http://foo.com/sports,-,Chromium
+2017-08-07 08:25:32 UTC,http://foo.com/sports,Google,Chromium
+2017-08-07 08:25:31 UTC,http://foo.com/sports,Google,Chromium
+2017-08-07 08:25:30 UTC,http://foo.com/sports,Google,Chromium
+2017-08-07 08:25:29 UTC,http://foo.com/sports,Google,Chromium
+2017-08-07 08:25:28 UTC,http://foo.com/sports,Google,Chromium
+2017-08-07 08:25:27 UTC,http://foo.com/sports,Google,Mozilla Firefox
+2017-08-07 08:25:26 UTC,http://foo.com/sports,Google,Mozilla Firefox
+2017-08-07 08:25:25 UTC,http://foo.com/sports,Google,Mozilla Firefox
+2017-08-07 08:25:24 UTC,http://foo.com/sports,Google,Mozilla Firefox
+2017-08-07 08:25:23 UTC,http://foo.com/news,Google,Mozilla Firefox
+2017-08-07 08:25:22 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:21 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:20 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:19 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:18 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:17 UTC,http://foo.com/news,-,Chromium
+2017-08-07 08:25:16 UTC,http://foo.com/news,-,Chromium
+2017-08-07 08:25:15 UTC,http://foo.com/news,-,Chromium
+2017-08-07 08:25:13 UTC,http://foo.com/news,-,Chromium
+2017-08-07 08:25:12 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:11 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:10 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:09 UTC,http://foo.com/news,Google,Chromium
+2017-08-07 08:25:08 UTC,http://foo.com/news,Google,Chromium
